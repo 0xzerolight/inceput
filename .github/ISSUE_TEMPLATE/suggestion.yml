@@ -1,0 +1,35 @@
+name: Suggestion
+description: Suggest a word to add or drop, or a change to the deck.
+title: "[Suggestion]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing an idea. Before filing, please skim existing Issues and Discussions
+        in case it has already been raised.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem / use case
+      description: What is missing or in the way? e.g. a common word the deck lacks.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: What should change?
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Frequency lists, other decks, screenshots, anything else.
+    validations:
+      required: false

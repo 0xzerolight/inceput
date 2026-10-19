@@ -1,0 +1,70 @@
+name: Import or display problem
+description: Report a deck that will not import, or cards that do not show or play as they should.
+title: "[Import]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to file a report.
+        Please fill in as much detail as you can - it makes the fix faster.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What went wrong? Include what you expected to happen and what actually happened.
+      placeholder: When I import the deck, X happens instead of Y.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Download inceput.apkg 1.0.0.
+        2. File -> Import.
+        3. Observe error.
+    validations:
+      required: true
+
+  - type: input
+    id: anki_version
+    attributes:
+      label: Anki version
+      description: Shown in Help -> About. e.g. 25.09.2.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: device
+    attributes:
+      label: Device
+      options:
+        - Anki desktop (Windows)
+        - Anki desktop (macOS)
+        - Anki desktop (Linux)
+        - AnkiDroid
+        - AnkiMobile (iOS)
+        - AnkiWeb
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Deck version
+      description: The release you imported, e.g. 1.0.0.
+      placeholder: 1.0.0
+    validations:
+      required: true
+
+  - type: upload
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: A screenshot of the error or the card, if it helps.
+    validations:
+      required: false

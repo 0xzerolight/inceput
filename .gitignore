@@ -1,0 +1,9 @@
+# Only the public files are tracked. Everything else on disk (.claude/, docs/, downloaded decks) stays out;
+# a new tracked file needs its own `!` line.
+/*
+!/.github/
+!/assets/
+!/.gitignore
+!/ATTRIBUTION.md
+!/LICENSE
+!/README.md
