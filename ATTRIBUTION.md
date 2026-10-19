@@ -32,4 +32,5 @@ Each release attaches `credits.tsv`: one row per card, with the source, author a
 ## Changes
 
 - Text is copied as in its source, apart from Unicode normalisation (ş -> ș, ţ -> ț, spacing).
+- Verbs are shown with the infinitive particle (a fi), and their first-person present with its pronoun (eu sunt).
 - Recordings are trimmed, loudness-normalised and re-encoded as MP3.

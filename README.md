@@ -35,18 +35,18 @@ This adds the **Început 1.5k** deck and its note type, **Anki Miner Note (Înce
 
 Import the new `inceput.apkg` the same way, leaving **Update notes** and **Update note types** at **If newer**.
 
-- Notes the release changed are updated in place and keep their review history.
+- Notes are updated in place and keep their review history.
 - New words arrive as new cards.
 - A release that changes the card design updates Anki Miner Note (Început). Edits you made to its styling are replaced, so copy them first.
 - Words a release drops stay in your collection. Delete them in **Browse** if you want them gone.
 
-An update can overwrite a field you edited on a note that the release also changed.
+An update replaces the fields you edited and the tags you added on the deck's notes, `leech` and `marked` included.
 
 ## Features
 
 - 1500 words in frequency order, one card each: the word on the front, with a Romanian sentence below it.
 - The sentence's English translation and one to three English meanings of the word.
-- Gender and plural for nouns, and the first-person present and past participle for verbs.
+- Gender and plural for nouns. Verbs in the infinitive (a fi), with the first-person present (eu sunt).
 - Native recordings of 1130 words from Lingua Libre and Wikimedia Commons. Synthetic speech in one voice for the other 370 words and every sentence.
 - A picture from [いらすとや](https://www.irasutoya.com) on every card.
 - Weekdays, months and seasons as blocks in calendar order.
