@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-A Romanian core deck for Anki: 1500 common words in frequency order, each in a Romanian sentence, with audio and a picture. Modelled on the Japanese deck <a href="https://github.com/donkuri/kaishi">Kaishi 1.5k</a>.
+A Romanian core deck for Anki: 1500 common words in frequency order, each in a Romanian sentence, with audio and a picture.
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ Contributions of any kind are welcome. If you want to support the deck, please s
 
 ## Acknowledgements
 
-- [Kaishi 1.5k](https://github.com/donkuri/kaishi) - the model for this deck.
+- [Kaishi 1.5k](https://github.com/donkuri/kaishi) - the inspiration for this deck.
 - [Lapis](https://github.com/donkuri/lapis) - the card design, through Anki Miner Note.
 - [いらすとや](https://www.irasutoya.com), [Tatoeba](https://tatoeba.org), [Wiktionary](https://en.wiktionary.org), [Lingua Libre](https://lingualibre.org) and the other sources in [ATTRIBUTION.md](ATTRIBUTION.md).
 
