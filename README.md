@@ -17,7 +17,7 @@ Please leave a ⭐ star if Început helped you - it helps others find it :).
 </p>
 
 <p align="center">
-<img src="assets/card-front.png" width="360" alt="Front of a card"> <img src="assets/card-back.png" width="360" alt="Back of the same card">
+<img src="assets/card-front.png" width="280" alt="Front of a card"> <img src="assets/card-back.png" width="280" alt="Back of the same card">
 </p>
 
 ## Installation
