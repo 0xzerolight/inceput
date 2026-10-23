@@ -47,7 +47,7 @@ An update replaces the fields you edited and the tags you added on the deck's no
 - 1500 words in frequency order, one card each: the word on the front, with a Romanian sentence below it.
 - The sentence's English translation and one to three English meanings of the word.
 - Gender and plural for nouns. Verbs in the infinitive (a fi), with the first-person present (eu sunt).
-- Native recordings of 1130 words from Lingua Libre and Wikimedia Commons. Synthetic speech in one voice for the other 370 words and every sentence.
+- Native recordings of 1138 words from Lingua Libre and Wikimedia Commons. Synthetic speech in one voice for the other 362 words and every sentence.
 - A picture from [いらすとや](https://www.irasutoya.com) on every card.
 - Weekdays, months and seasons as blocks in calendar order.
 - In 88% of cards, the word is the only new word in its sentence (i+1).
