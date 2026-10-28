@@ -50,7 +50,7 @@ An update replaces the fields you edited and the tags you added on the deck's no
 - Native recordings of 1138 words from Lingua Libre and Wikimedia Commons. Synthetic speech in one voice for the other 362 words and every sentence.
 - A picture from [いらすとや](https://www.irasutoya.com) on every card.
 - Weekdays, months and seasons as blocks in calendar order.
-- In 88% of cards, the word is the only new word in its sentence (i+1).
+- In 87% of cards, the word is the only new word in its sentence (i+1).
 
 ## Troubleshooting
 
